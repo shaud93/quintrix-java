@@ -11,7 +11,7 @@ public class Database {
 	// main code
 	public static void main(String[] args) throws Exception {
 		createTable();
-		//post();
+		post();
 		Select();
 		
 	}
